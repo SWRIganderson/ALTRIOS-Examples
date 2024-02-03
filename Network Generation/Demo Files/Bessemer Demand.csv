@@ -1,0 +1,7 @@
+Origin,Destination,Train_Type,Number_of_Cars,Number_of_Containers
+Conneaut,Pittsburgh,Unit,798,0
+Conneaut,Pittsburgh,Manifest,863,0
+Conneaut,Pittsburgh,Intermodal,740,740
+Pittsburgh,Conneaut,Unit,777,0
+Pittsburgh,Conneaut,Manifest,1076,0
+Pittsburgh,Conneaut,Intermodal,707,707

@@ -1,0 +1,5 @@
+Location ID,Link Index,Offset (m),Is Front End,Grid Emissions Region,Electricity Price Region,Liquid Fuel Price Region
+Pittsburgh,221,0,FALSE,MROWc,MN,MN
+Pittsburgh,1227,0,FALSE,MROWc,MN,MN
+Conneaut,609,0,FALSE,MROWc,MN,MN
+Conneaut,1615,0,FALSE,MROWc,MN,MN
