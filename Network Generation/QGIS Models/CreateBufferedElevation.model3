@@ -434,9 +434,9 @@
       <Option name="description" value="Rank" type="QString"/>
       <Option name="flags" value="0" type="int"/>
       <Option name="help" value="" type="QString"/>
-      <Option name="max" value="0" type="double"/>
+      <Option name="max" value="100" type="double"/>
       <Option name="metadata"/>
-      <Option name="min" value="100" type="double"/>
+      <Option name="min" value="0" type="double"/>
       <Option name="name" value="rank" type="QString"/>
       <Option name="parameter_type" value="number" type="QString"/>
     </Option>
